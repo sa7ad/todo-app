@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Angular Todo App with JSON Server
+
+Welcome to the Angular Todo App, a sleek and intuitive task management solution powered by Angular and integrated with JSON Server. Effortlessly add, organize, and complete tasks through a clean and user-friendly interface.
+
+## Features
+
+- **Angular Framework:** Leverage the power of Angular for a responsive and dynamic task management experience.
+
+- **Task Management:** Easily add, organize, and mark tasks as complete to streamline your daily workflow.
+
+- **JSON Server Integration:** Utilize JSON Server for efficient data storage and retrieval, ensuring a seamless user experience.
